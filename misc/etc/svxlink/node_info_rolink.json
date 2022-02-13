@@ -1,0 +1,17 @@
+{
+  "name": "QTH, CALLSIGN",
+  "nameA": "QTH CALLSIGN",
+  "description": "QTH CALLSIGN",
+  "tip": "Node type",
+  "type": "radio",
+  "tx_frq": "FREQ",
+  "rx_frq": "FREQ",
+  "shift" : "0.0",
+  "pl_in": "76.5",
+  "pl_out": "",
+  "k_id": "n_a",
+  "lat": Latitude as decimal fraction,
+  "lon": Longitude as decimal fraction,
+  "tg": [226]
+}
+
